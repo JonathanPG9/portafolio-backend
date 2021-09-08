@@ -1,0 +1,25 @@
+[
+{
+    "titulo" : "Spiderman 2",
+    "duracion" : "2 horas",
+    "actores" : "Tobey Maguire",
+    "id" : "1",
+    "año" : 2002 
+} 
+,
+{
+"titulo" : "Batman 2",
+"duracion" : "2 horas",
+"actores" : "Christian Bale",
+"id" : "2",
+"año" : "2008"
+},
+{
+    "titulo" : "Batman 4",
+"duracion" : "1 horas",
+"actores" : "Christian Bale",
+"id" : 3,
+"año" : 2010
+}
+
+]
